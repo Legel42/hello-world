@@ -1,5 +1,5 @@
 # hello-world
-tutorial
+About me
 
 Hello, my name is Legel42 and i am a learning programmer.
 
